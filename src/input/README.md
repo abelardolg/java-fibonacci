@@ -1,0 +1,1 @@
+Paquete para las clases que nos permiten introducir datos a nuestra app.
